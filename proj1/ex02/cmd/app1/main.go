@@ -1,8 +1,8 @@
 package main
 
 import (
-	"github.com/verrol/awesome-project/ex02/featx"
-	"github.com/verrol/awesome-project/ex02/featy"
+	"github.com/verrol/awesome-project/proj1/ex02/featx"
+	"github.com/verrol/awesome-project/proj1/ex02/featy"
 )
 
 func main() {

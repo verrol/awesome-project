@@ -1,8 +1,8 @@
 package app1
 
 import (
-	"github.com/verrol/awesome-project/ex01/featx"
-	"github.com/verrol/awesome-project/ex02/featy"
+	"github.com/verrol/awesome-project/proj1/ex01/featx"
+	"github.com/verrol/awesome-project/proj1/ex02/featy"
 )
 
 func Run() {

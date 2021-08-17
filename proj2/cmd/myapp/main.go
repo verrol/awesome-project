@@ -3,7 +3,7 @@ package main
 import (
 	"log"
 
-	"github.com/verrol/awesome-project/ex03/featx"
+	"github.com/verrol/awesome-project/proj1/ex03/featx"
 )
 
 func main() {

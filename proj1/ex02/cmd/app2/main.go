@@ -1,6 +1,6 @@
 package main
 
-import "github.com/verrol/awesome-project/ex02/featx"
+import "github.com/verrol/awesome-project/proj1/ex02/featx"
 
 func main() {
 	fx, _ := featx.New()
